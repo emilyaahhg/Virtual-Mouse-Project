@@ -1,0 +1,7 @@
+opencv-python==4.6.0.66
+mediapipe==0.8.10.1
+PyAutoGUI==0.9.53
+pycaw==20220416
+protobuf==3.20.1
+screen-brightness-control==0.15.3
+comtypes==1.1.13
