@@ -2,7 +2,7 @@
 
 Python version 3.10.5
 
-Object detection is a computer vision technique that works to identify and locate objects within an image or video. Specifically, object detection draws bounding boxes around these detected objects, which allow us to locate where said objects are in (or how they move through) a given scene.
+The AI virtual mouse system is useful for a variety of applications; it can be used to save space when using a physical mouse, as well as in situations where we cannot use a physical mouse. The system eliminates the need for devices while also improving human-computer interaction.
 
 ### Pre-requisites
   * Python.
