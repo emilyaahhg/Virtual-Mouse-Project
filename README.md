@@ -36,7 +36,7 @@ pip install -r requirements.txt
   
   Step 7: Run the program.
   ```bash 
-python main.py
+python VirtualMouse.py
   ```
 
 
